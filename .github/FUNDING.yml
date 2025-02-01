@@ -12,4 +12,4 @@ lfx_crowdfunding: cloud-foundry # LFX Crowdfunding project name
 polar: mypolarusername # Polar username
 buy_me_a_coffee: Aung Thuyrain # Buy Me a Coffee username
 thanks_dev: mythanksusername # Thanks.dev username
-custom: ['https://mynetwork.com/sponsor-me', 'https://mynetwork.com'] # Custom URLs
+custom: ['https://amknetwork.com/sponsor-me', 'https://amknetwork.com'] # Custom URLs
