@@ -1,10 +1,10 @@
 # These are supported funding model platforms
 
-github: [Amk-001, Aung Thuyrain] # GitHub Sponsors usernames
+github: [server-mm404, Aung Thuyrain] # GitHub Sponsors usernames
 patreon: Aung Thuyrain # Patreon username
-open_collective: Amk-001 # Open Collective username
-ko_fi: Amk-001 # Ko-fi username
-tidelift: Amk-server # Tidelift platform name/package name
+open_collective: server-mm404 # Open Collective username
+ko_fi: server-mm404 # Ko-fi username
+tidelift: server-mm404 # Tidelift platform name/package name
 community_bridge: my-project # Community Bridge project name
 liberapay: Aung Thuyrain Th # Liberapay username
 issuehunt: Aung Thuyrain # IssueHunt username
@@ -12,4 +12,4 @@ lfx_crowdfunding: cloud-foundry # LFX Crowdfunding project name
 polar: mypolarusername # Polar username
 buy_me_a_coffee: Aung Thuyrain # Buy Me a Coffee username
 thanks_dev: mythanksusername # Thanks.dev username
-custom: ['https://amknetwork.com/sponsor-me', 'https://amknetwork.com'] # Custom URLs
+custom: ['https://github.com/sponsor-me', 'https://server-mm404'] # Custom URLs
